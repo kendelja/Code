@@ -1,0 +1,167 @@
+[
+  {
+    "Id": "P001",
+    "BrandId": 1,
+    "ProductName": "Premium Dog Food",
+    "GraphicName": "premium_dog_food.jpg",
+    "CostPrice": 9.99,
+    "MSRP": 19.99,
+    "QtyOnHand": 200,
+    "QtyOnBackOrder": 10,
+    "Description": "High-quality dog food with essential nutrients for your furry friend."
+  },
+  {
+    "Id": "P002",
+    "BrandId": 2,
+    "ProductName": "Interactive Cat Toy",
+    "GraphicName": "interactive_cat_toy.jpg",
+    "CostPrice": 5.99,
+    "MSRP": 12.99,
+    "QtyOnHand": 100,
+    "QtyOnBackOrder": 5,
+    "Description": "Keep your cat entertained for hours with this fun interactive toy."
+  },
+  {
+    "Id": "P003",
+    "BrandId": 1,
+    "ProductName": "Small Animal Bedding",
+    "GraphicName": "small_animal_bedding.jpg",
+    "CostPrice": 7.49,
+    "MSRP": 14.99,
+    "QtyOnHand": 150,
+    "QtyOnBackOrder": 8,
+    "Description": "Comfortable and absorbent bedding for small animals like hamsters and guinea pigs."
+  },
+  {
+    "Id": "P004",
+    "BrandId": 3,
+    "ProductName": "Aquarium Starter Kit",
+    "GraphicName": "aquarium_starter_kit.jpg",
+    "CostPrice": 29.99,
+    "MSRP": 49.99,
+    "QtyOnHand": 50,
+    "QtyOnBackOrder": 3,
+    "Description": "Everything you need to start a beautiful aquarium for your fish."
+  },
+  {
+    "Id": "P005",
+    "BrandId": 2,
+    "ProductName": "Dog Grooming Brush",
+    "GraphicName": "dog_grooming_brush.jpg",
+    "CostPrice": 12.99,
+    "MSRP": 24.99,
+    "QtyOnHand": 80,
+    "QtyOnBackOrder": 4,
+    "Description": "Easily groom your dog's fur with this gentle and effective brush."
+  },
+  {
+    "Id": "P006",
+    "BrandId": 3,
+    "ProductName": "Catnip-filled Mouse Toy",
+    "GraphicName": "catnip_mouse_toy.jpg",
+    "CostPrice": 3.99,
+    "MSRP": 9.99,
+    "QtyOnHand": 200,
+    "QtyOnBackOrder": 15,
+    "Description": "A cat's favorite toy, filled with catnip for extra fun."
+  },
+  {
+    "Id": "P007",
+    "BrandId": 1,
+    "ProductName": "Tropical Fish Food",
+    "GraphicName": "tropical_fish_food.jpg",
+    "CostPrice": 4.99,
+    "MSRP": 10.99,
+    "QtyOnHand": 120,
+    "QtyOnBackOrder": 6,
+    "Description": "Specially formulated food for tropical fish to keep them healthy and vibrant."
+  },
+  {
+    "Id": "P008",
+    "BrandId": 2,
+    "ProductName": "Pet Carrier Bag",
+    "GraphicName": "pet_carrier_bag.jpg",
+    "CostPrice": 19.99,
+    "MSRP": 39.99,
+    "QtyOnHand": 60,
+    "QtyOnBackOrder": 2,
+    "Description": "Convenient and comfortable carrier bag for transporting your pets."
+  },
+  {
+    "Id": "P009",
+    "BrandId": 3,
+    "ProductName": "Bird Cage",
+    "GraphicName": "bird_cage.jpg",
+    "CostPrice": 39.99,
+    "MSRP": 69.99,
+    "QtyOnHand": 30,
+    "QtyOnBackOrder": 1,
+    "Description": "Spacious and durable cage for your pet birds to enjoy their surroundings."
+  },
+  {
+    "Id": "P010",
+    "BrandId": 1,
+    "ProductName": "Hamster Wheel",
+    "GraphicName": "hamster_wheel.jpg",
+    "CostPrice": 8.99,
+    "MSRP": 16.99,
+    "QtyOnHand": 100,
+    "QtyOnBackOrder": 7,
+    "Description": "Provide exercise and entertainment for your hamster with this running wheel."
+  },
+  {
+    "Id": "P011",
+    "BrandId": 2,
+    "ProductName": "Dog Training Treats",
+    "GraphicName": "dog_training_treats.jpg",
+    "CostPrice": 6.99,
+    "MSRP": 14.99,
+    "QtyOnHand": 150,
+    "QtyOnBackOrder": 12,
+    "Description": "Delicious treats to reward and train your dog during obedience training."
+  },
+  {
+    "Id": "P012",
+    "BrandId": 3,
+    "ProductName": "Cat Litter",
+    "GraphicName": "cat_litter.jpg",
+    "CostPrice": 10.99,
+    "MSRP": 19.99,
+    "QtyOnHand": 200,
+    "QtyOnBackOrder": 10,
+    "Description": "High-quality clumping cat litter for easy cleanup and odor control."
+  },
+  {
+    "Id": "P013",
+    "BrandId": 1,
+    "ProductName": "Dog Collar",
+    "GraphicName": "dog_collar.jpg",
+    "CostPrice": 5.99,
+    "MSRP": 12.99,
+    "QtyOnHand": 100,
+    "QtyOnBackOrder": 6,
+    "Description": "Durable and adjustable collar for your beloved canine companion."
+  },
+  {
+    "Id": "P014",
+    "BrandId": 2,
+    "ProductName": "Pet Shampoo",
+    "GraphicName": "pet_shampoo.jpg",
+    "CostPrice": 7.99,
+    "MSRP": 15.99,
+    "QtyOnHand": 120,
+    "QtyOnBackOrder": 8,
+    "Description": "Keep your pets clean and fresh with this gentle and nourishing shampoo."
+  },
+  {
+    "Id": "P015",
+    "BrandId": 3,
+    "ProductName": "Bird Seed Mix",
+    "GraphicName": "bird_seed_mix.jpg",
+    "CostPrice": 6.99,
+    "MSRP": 12.99,
+    "QtyOnHand": 80,
+    "QtyOnBackOrder": 5,
+    "Description": "A nutritious blend of seeds to provide a balanced diet for your pet birds."
+  }
+]
